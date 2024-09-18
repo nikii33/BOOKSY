@@ -15,7 +15,7 @@ To run this project locally, follow these steps:
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/yourusername/booksy.git
+git clone https://github.com/nikii33/BOOKSY.git
 Open the project: Open the index.html file in your browser to start using the application.
 Live Demo
 You can check out a live version of the project here: Live Demo
